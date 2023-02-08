@@ -4,4 +4,16 @@ var store = [{
         "tags": ["Blog"],
         "url": "/blog/first-post/",
         "teaser": null
+      },{
+        "title": "DCGAN 논문 리뷰",
+        "excerpt":" ","categories": ["논문 리뷰"],
+        "tags": ["DCGAN","리뷰","논문","review"],
+        "url": "/%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0/dcgan/",
+        "teaser": null
+      },{
+        "title": "GAN 논문 리뷰",
+        "excerpt":"    태그 Generative Model Description GAN Journal/Conference NIPS Link https://arxiv.org/abs/1406.2661 Year 2014 원문 링크 https://arxiv.org/pdf/1406.2661.pdf 논문 읽기전 알아두면 좋은 상식 GAN Model GAN이란? ``` txt GAN (Generative Adversarial Network)은 딥러닝 모델 중 이미지 생성에 널리 쓰이는 모델 CNN은 이미지에서 개인지 고양이인지 구분하는 이미지 분류 문제에 쓰인다면 GAN은 모델이 데이터셋과...","categories": ["논문 리뷰"],
+        "tags": ["GAN","리뷰","논문","review"],
+        "url": "/%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0/gan/",
+        "teaser": null
       }]
